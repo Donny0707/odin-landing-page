@@ -147,3 +147,9 @@ button.cta-secondary {
   border-radius: 10px;
   font-size: 18px;
 }
+
+footer {
+  background-color: #1F2937;
+  text-align: center;
+  padding: 20px 0;
+}
